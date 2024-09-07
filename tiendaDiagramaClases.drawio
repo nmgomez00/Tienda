@@ -44,7 +44,7 @@
         <mxCell id="-3kDdXsh2cIBWBHXsC7O-10" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="-3kDdXsh2cIBWBHXsC7O-6" vertex="1">
           <mxGeometry y="78" width="550" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="-3kDdXsh2cIBWBHXsC7O-11" value="+ AgregarProducto(nombre: string, string marca, categoria:Categoria, precio: Precio ):void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-3kDdXsh2cIBWBHXsC7O-6" vertex="1">
+        <mxCell id="-3kDdXsh2cIBWBHXsC7O-11" value="+ AgregarProducto(nombre: string, marca: string, categoria:Categoria, precio: Precio ):void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-3kDdXsh2cIBWBHXsC7O-6" vertex="1">
           <mxGeometry y="86" width="550" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-3kDdXsh2cIBWBHXsC7O-42" value="+ MostrarDetalles():void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-3kDdXsh2cIBWBHXsC7O-6" vertex="1">
